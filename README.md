@@ -16,3 +16,8 @@ a multi-line message. To escape this page use esp :wq
 
 How to fix a conflict?
 Git will modify you code with
+HEAD 
+one line of code
+===========
+conflicting line of code
+>>>>>>>>>>>> 
