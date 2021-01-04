@@ -13,10 +13,10 @@ Following Youtube tutorial found at: https://www.youtube.com/watch?v=0fKg7e37bQE
 a multi-line message. To escape this page use esp :wq*
 
 
-How to fix a conflict:
+**How to fix a conflict:**
 Git will modify you code with
 *HEAD 
 one line of code
 ===========
 conflicting line of code
->>>>>>>>>>>>* 
+* 
