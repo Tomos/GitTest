@@ -9,6 +9,7 @@ Following Youtube tutorial found at: https://www.youtube.com/watch?v=0fKg7e37bQE
 - git commit -m "message"
 - git push 
 - git commit 
+
 *This command will take you through to a screen if you need to provide 
 a multi-line message. To escape this page use esp :wq*
 
