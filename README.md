@@ -20,9 +20,11 @@ Git will modify you code with:
 
 *>>>>>>>>>>>>>*
 *HEAD* 
+
 *one line of code*
 
 ==============
 
 *conflicting line of code*
+
 *>>>>>>>>>>>>>*
